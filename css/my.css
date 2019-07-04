@@ -1,0 +1,39 @@
+.navbar-my {
+    color: aliceblue;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+    margin-top: 2%;
+    margin-left: 6%;
+    text-shadow: 0 0 2px black;
+}
+
+.font-my {
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif !important;
+}
+
+#fh5co-couple p {
+    padding-bottom: 20px;
+}
+
+.part2_p1 {
+    color: #F14E95;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 200;
+}
+
+.part2_p2 {
+    color: #828282;
+    text-align: center;
+}
+
+.part2_p3 {
+    color: #828282;
+    text-align: center;
+}
+
+.story_our {
+    color: #F14E95;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+}

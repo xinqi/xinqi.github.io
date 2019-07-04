@@ -1,0 +1,80 @@
+body {
+    position: relative;
+    /* font-family: 'Caveat', cursive; */
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif !important;
+    background-color: #828282;
+}
+
+.fondo-principal {
+    height: 900px;
+    background-image: url(../images/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.transparente {
+    margin-top: 50px;
+    height: 500px;
+    background-color: transparent;
+    color: black;
+}
+
+.tandem {
+    width: 400px;
+    max-width: 100%;
+}
+
+img.logo-fecha {
+    max-width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    .fondo-principal {
+        background-image: url(../images/11.jpg);
+        height: 500px
+    }
+    img.logo-fecha {
+        display: none;
+    }
+}
+
+h1 {
+    font-family: 'Pinyon Script', cursive;
+}
+
+h2 {
+    font-family: 'Pinyon Script', cursive;
+}
+
+.aladerecha {
+    width: 400px;
+    position: fixed;
+    right: 50px;
+}
+
+.principal {
+    margin: 100px;
+    padding-bottom: 200px;
+}
+
+.cuadrado {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    max-width: 100%;
+}
+
+.ilustracion {
+    max-width: 100%;
+}
+
+.light-gray {
+    background-color: rgba(0, 0, 0, 0.04);
+}
+
+.beige {
+    background-color: #F5F5DC;
+}
+
+.jumbotron {
+    background-color: #FAEBD7;
+}
